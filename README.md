@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrecisionPilot&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrecisionPilot&theme=tokyonight)](https://git.io/streak-stats)]
 
 ### Hi there 👋
 I'm Sean Wang, a Computer Engineering student at the University of Waterloo. I am a unique combination of an engineering student, a team player, and a social butterfly.
