@@ -1,4 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrecisionPilot&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Hi there 👋
 I'm Sean Wang, a Computer Engineering student at the University of Waterloo. I am a unique combination of an engineering student, a team player, and a social butterfly.
@@ -13,6 +12,7 @@ Designing and building an idea into a reality, whether it is software, hardware,
 “If something isn’t exactly how you want it, you just make it exactly how you want it”
 —Mark Rober
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrecisionPilot&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **PilotPrix/PilotPrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
